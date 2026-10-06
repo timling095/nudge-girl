@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 540" width="440" height="540" aria-label="Nudge Girl mascot: a stern cartoon girl with a hall-monitor armband holding a hand bell">
+<path d="M88 200 C76 112 138 58 200 58 C262 58 324 112 312 200 L320 318 C304 340 272 338 262 318 L138 318 C128 338 96 340 80 318 Z" fill="#2B2D42"/>
+<path d="M105 300 L115 330" stroke="#1C1D2E" stroke-width="4" stroke-linecap="round"/>
+<path d="M295 300 L285 330" stroke="#1C1D2E" stroke-width="4" stroke-linecap="round"/>
+<rect x="184" y="270" width="32" height="40" rx="8" fill="#F2C4A4"/>
+<path d="M200 420 L126 420 L106 486 Q200 500 294 486 L274 420 Z" fill="#2B2D42"/>
+<path d="M150 422 L140 488 M200 422 L200 494 M250 422 L260 488" stroke="#1C1D2E" stroke-width="4"/>
+<rect x="160" y="484" width="22" height="30" fill="#FFDCC2"/>
+<rect x="218" y="484" width="22" height="30" fill="#FFDCC2"/>
+<ellipse cx="168" cy="518" rx="22" ry="11" fill="#1C1D2E"/>
+<ellipse cx="232" cy="518" rx="22" ry="11" fill="#1C1D2E"/>
+<path d="M136 312 Q200 296 264 312 L284 430 Q200 446 116 430 Z" fill="#2F8F5B"/>
+<path d="M176 304 L200 336 L224 304" fill="none" stroke="#F6F3EA" stroke-width="8" stroke-linejoin="round"/>
+<path d="M200 336 L200 430" stroke="#23714A" stroke-width="4"/>
+<path d="M140 320 Q104 360 94 392 Q92 410 112 414 L140 404" fill="none" stroke="#2F8F5B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M106 362 L130 374 L118 400 L94 388 Z" fill="#E8743B"/>
+<circle cx="140" cy="406" r="15" fill="#FFDCC2"/>
+<path d="M262 322 Q336 296 334 150" fill="none" stroke="#2F8F5B" stroke-width="30" stroke-linecap="round"/>
+<g transform="translate(336 128) rotate(-38)">
+<rect x="-6" y="-4" width="12" height="38" rx="5" fill="#8A5A2B"/>
+<path d="M-32 86 Q-32 36 0 32 Q32 36 32 86 L42 104 L-42 104 Z" fill="#F2B134"/>
+<path d="M-20 60 Q-18 46 -8 42" fill="none" stroke="#FBE3A6" stroke-width="6" stroke-linecap="round"/>
+<circle cx="0" cy="112" r="10" fill="#C98A12"/>
+</g>
+<circle cx="336" cy="130" r="17" fill="#FFDCC2"/>
+<path d="M366 64 Q390 70 400 92 M380 40 Q414 50 426 84" fill="none" stroke="#E8743B" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="106" cy="200" rx="14" ry="20" fill="#F2C4A4"/>
+<ellipse cx="294" cy="200" rx="14" ry="20" fill="#F2C4A4"/>
+<circle cx="200" cy="190" r="96" fill="#FFDCC2"/>
+<path d="M104 196 C96 108 150 70 200 70 C250 70 304 108 296 196 L282 150 L262 168 L250 132 L226 160 L212 124 L188 160 L172 128 L150 166 L136 140 L118 176 Z" fill="#2B2D42"/>
+<rect x="254" y="108" width="34" height="16" rx="8" fill="#2F8F5B" transform="rotate(28 271 116)"/>
+<path d="M140 166 L184 184" stroke="#2B2D42" stroke-width="10" stroke-linecap="round"/>
+<path d="M260 166 L216 184" stroke="#2B2D42" stroke-width="10" stroke-linecap="round"/>
+<path d="M148 196 Q166 192 184 200 Q184 220 166 222 Q148 220 148 204 Z" fill="#2B2D42"/>
+<path d="M252 196 Q234 192 216 200 Q216 220 234 222 Q252 220 252 204 Z" fill="#2B2D42"/>
+<circle cx="172" cy="206" r="4" fill="#F6F3EA"/>
+<circle cx="240" cy="206" r="4" fill="#F6F3EA"/>
+<path d="M144 194 L188 199" stroke="#2B2D42" stroke-width="5" stroke-linecap="round"/>
+<path d="M256 194 L212 199" stroke="#2B2D42" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="150" cy="236" rx="16" ry="8" fill="#F59A9A" opacity="0.6"/>
+<ellipse cx="250" cy="236" rx="16" ry="8" fill="#F59A9A" opacity="0.6"/>
+<path d="M184 252 Q200 242 216 252" fill="none" stroke="#7A3B2E" stroke-width="5" stroke-linecap="round"/>
+<g stroke="#D64545" stroke-width="7" stroke-linecap="round" fill="none">
+<path d="M112 92 Q124 98 122 110"/>
+<path d="M136 92 Q124 98 126 110"/>
+<path d="M112 126 Q124 120 122 108"/>
+<path d="M136 126 Q124 120 126 108"/>
+</g>
+</svg>
