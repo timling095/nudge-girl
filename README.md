@@ -36,4 +36,5 @@ Stage I: proposal and concept renders. Stage II (if selected): port to the UGen3
 - Ultralytics YOLOv8 documentation, docs.ultralytics.com
 - Hailo Model Zoo, github.com/hailo-ai/hailo_model_zoo (for HAILO10H)
 - Taiwan Ministry of Environment, 應回收項目 (Recyclable Items), recycle.moenv.gov.tw/Understanding/RecyclableItems
+- Asus UGen300 USB AI Accelerator asus.com/tw/motherboards-components/ai-accelerator/ugen/ugen300-usb-8g
 

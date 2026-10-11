@@ -1,0 +1,1 @@
+Camara->Host + Ugen 300 -> screen & bell
